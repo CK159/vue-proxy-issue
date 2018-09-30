@@ -1,4 +1,5 @@
 module.exports = {
+	baseUrl: "vue-app/dist/",
 	devServer: {
 		proxy: {
 			"/": {
